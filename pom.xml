@@ -46,7 +46,7 @@
 	</dependencies>
 	<profiles>
 		<profile>
-			<id>SmokeSuite </id>
+			<id>SmokeSuite</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -63,7 +63,7 @@
 			</build>
 		</profile>
 		<profile>
-			<id>RegressionSuite </id>
+			<id>RegressionSuite</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -80,7 +80,7 @@
 			</build>
 		</profile>
 		<profile>
-			<id>BatchSuite </id>
+			<id>BatchSuite</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -97,7 +97,7 @@
 			</build>
 		</profile>
 		<profile>
-			<id>ParallelSuite </id>
+			<id>ParallelSuite</id>
 			<build>
 				<plugins>
 					<plugin>
