@@ -11,6 +11,36 @@
       <![CDATA[Logged in suceessfully]]>
     </line>
     <line>
+      <![CDATA[[ CON78 ] HrithikRoshan - Contact Information Created successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launced Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged in suceessfully]]>
+    </line>
+    <line>
+      <![CDATA[[ CON79 ] HrithikRoshan - Contact Information and abc Pass]]>
+    </line>
+    <line>
+      <![CDATA[Logged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launced Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged in suceessfully]]>
+    </line>
+    <line>
       <![CDATA[GlobalLogic -----Passed]]>
     </line>
     <line>
@@ -26,7 +56,7 @@
       <![CDATA[Logged in suceessfully]]>
     </line>
     <line>
-      <![CDATA[[ ACC84 ] GlobalLogic1418 - Organization Information With [[ChromeDriver: chrome on windows (6cdffa7d5751a0fb3c68da4c2dc69bae)] -> name: industry] And [[ChromeDriver: chrome on windows (6cdffa7d5751a0fb3c68da4c2dc69bae)] -> name: accounttype]----Passed]]>
+      <![CDATA[[ ACC100 ] GlobalLogic894 - Organization Information With [[ChromeDriver: chrome on windows (deb775853b31ca0e65fec139d81f4efe)] -> name: industry] And [[ChromeDriver: chrome on windows (deb775853b31ca0e65fec139d81f4efe)] -> name: accounttype]----Passed]]>
     </line>
     <line>
       <![CDATA[Logged out successfully]]>
@@ -41,37 +71,7 @@
       <![CDATA[Logged in suceessfully]]>
     </line>
     <line>
-      <![CDATA[[ ACC85 ] GlobalLogic141 - Organization Information -----Passed]]>
-    </line>
-    <line>
-      <![CDATA[Logged out successfully]]>
-    </line>
-    <line>
-      <![CDATA[Browser got closed successfully]]>
-    </line>
-    <line>
-      <![CDATA[Browser Launced Successfully]]>
-    </line>
-    <line>
-      <![CDATA[Logged in suceessfully]]>
-    </line>
-    <line>
-      <![CDATA[[ CON64 ] HrithikRoshan - Contact Information and abc Pass]]>
-    </line>
-    <line>
-      <![CDATA[Logged out successfully]]>
-    </line>
-    <line>
-      <![CDATA[Browser got closed successfully]]>
-    </line>
-    <line>
-      <![CDATA[Browser Launced Successfully]]>
-    </line>
-    <line>
-      <![CDATA[Logged in suceessfully]]>
-    </line>
-    <line>
-      <![CDATA[[ CON65 ] HrithikRoshan - Contact Information Created successfully]]>
+      <![CDATA[[ ACC101 ] GlobalLogic386 - Organization Information -----Passed]]>
     </line>
     <line>
       <![CDATA[Logged out successfully]]>
@@ -83,100 +83,86 @@
       <![CDATA[Data base disconnected]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-03-27T09:47:37 IST" name="Suite" finished-at="2025-03-27T09:49:37 IST" duration-ms="120460">
+  <suite started-at="2025-04-05T10:59:44 IST" name="Surefire suite" finished-at="2025-04-05T11:01:41 IST" duration-ms="117311">
     <groups>
       <group name="regression">
-        <method signature="ToCreateContactWithOrgTest.toCreateContact_001()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@52e6fdee]" name="toCreateContact_001" class="contactTests.ToCreateContactWithOrgTest"/>
-        <method signature="ToCreateOrgWithIndNTypeTest.toCreateOrgWithIndustyAndType()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@42e99e4a]" name="toCreateOrgWithIndustyAndType" class="organizationTests.ToCreateOrgWithIndNTypeTest"/>
-        <method signature="ToCreateOrgWithIndustryTest.toCreateOrgWithIndusty()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@14dd9eb7]" name="toCreateOrgWithIndusty" class="organizationTests.ToCreateOrgWithIndustryTest"/>
+        <method signature="ToCreateContactWithOrgTest.toCreateContact_001()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@2f112965]" name="toCreateContact_001" class="contactTests.ToCreateContactWithOrgTest"/>
+        <method signature="ToCreateOrgWithIndNTypeTest.toCreateOrgWithIndustyAndType()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@4e91d63f]" name="toCreateOrgWithIndustyAndType" class="organizationTests.ToCreateOrgWithIndNTypeTest"/>
+        <method signature="ToCreateOrgWithIndustryTest.toCreateOrgWithIndusty()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@d4342c2]" name="toCreateOrgWithIndusty" class="organizationTests.ToCreateOrgWithIndustryTest"/>
       </group> <!-- regression -->
       <group name="smoke">
-        <method signature="ToCreateContactTest.toCreateContact_001()[pri:0, instance:contactTests.ToCreateContactTest@62150f9e]" name="toCreateContact_001" class="contactTests.ToCreateContactTest"/>
-        <method signature="ToCreateOrganizationTest.toCreateOrganization()[pri:0, instance:organizationTests.ToCreateOrganizationTest@f5ac9e4]" name="toCreateOrganization" class="organizationTests.ToCreateOrganizationTest"/>
+        <method signature="ToCreateContactTest.toCreateContact_001()[pri:0, instance:contactTests.ToCreateContactTest@4445629]" name="toCreateContact_001" class="contactTests.ToCreateContactTest"/>
+        <method signature="ToCreateOrganizationTest.toCreateOrganization()[pri:0, instance:organizationTests.ToCreateOrganizationTest@1a04f701]" name="toCreateOrganization" class="organizationTests.ToCreateOrganizationTest"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2025-03-27T09:47:37 IST" name="Test" finished-at="2025-03-27T09:49:37 IST" duration-ms="120460">
+    <test started-at="2025-04-05T10:59:44 IST" name="Surefire test" finished-at="2025-04-05T11:01:41 IST" duration-ms="117311">
       <class name="organizationTests.ToCreateOrganizationTest">
-        <test-method is-config="true" signature="beforeSuiteConfiguarjion()[pri:0, instance:organizationTests.ToCreateOrganizationTest@f5ac9e4]" started-at="2025-03-27T09:47:37 IST" name="beforeSuiteConfiguarjion" finished-at="2025-03-27T09:47:37 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Data base connection established]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeSuiteConfiguarjion -->
-        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrganizationTest@f5ac9e4]" started-at="2025-03-27T09:47:37 IST" name="beforeClassConfiguration" finished-at="2025-03-27T09:47:47 IST" duration-ms="9838" status="PASS">
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrganizationTest@1a04f701]" started-at="2025-04-05T11:00:30 IST" name="beforeClassConfiguration" finished-at="2025-04-05T11:00:33 IST" duration-ms="2705" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser Launced Successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeClassConfiguration -->
-        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrganizationTest@f5ac9e4]" started-at="2025-03-27T09:47:47 IST" name="beforeMethodConfiguration" finished-at="2025-03-27T09:47:56 IST" duration-ms="9498" status="PASS">
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrganizationTest@1a04f701]" started-at="2025-04-05T11:00:33 IST" name="beforeMethodConfiguration" finished-at="2025-04-05T11:00:37 IST" duration-ms="3394" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged in suceessfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethodConfiguration -->
-        <test-method signature="toCreateOrganization()[pri:0, instance:organizationTests.ToCreateOrganizationTest@f5ac9e4]" started-at="2025-03-27T09:47:56 IST" name="toCreateOrganization" finished-at="2025-03-27T09:48:27 IST" duration-ms="31190" status="PASS">
+        <test-method signature="toCreateOrganization()[pri:0, instance:organizationTests.ToCreateOrganizationTest@1a04f701]" started-at="2025-04-05T11:00:37 IST" name="toCreateOrganization" finished-at="2025-04-05T11:00:52 IST" duration-ms="15106" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[GlobalLogic -----Passed]]>
             </line>
           </reporter-output>
         </test-method> <!-- toCreateOrganization -->
-        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrganizationTest@f5ac9e4]" started-at="2025-03-27T09:48:27 IST" name="afterMethodConfiguration" finished-at="2025-03-27T09:48:29 IST" duration-ms="1914" status="PASS">
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrganizationTest@1a04f701]" started-at="2025-04-05T11:00:52 IST" name="afterMethodConfiguration" finished-at="2025-04-05T11:00:54 IST" duration-ms="2096" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged out successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethodConfiguration -->
-        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrganizationTest@f5ac9e4]" started-at="2025-03-27T09:48:29 IST" name="afterClassConfiguration" finished-at="2025-03-27T09:48:30 IST" duration-ms="319" status="PASS">
+        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrganizationTest@1a04f701]" started-at="2025-04-05T11:00:54 IST" name="afterClassConfiguration" finished-at="2025-04-05T11:00:54 IST" duration-ms="261" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser got closed successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterClassConfiguration -->
-        <test-method is-config="true" signature="afterSuiteConfiguration()[pri:0, instance:organizationTests.ToCreateOrganizationTest@f5ac9e4]" started-at="2025-03-27T09:49:37 IST" name="afterSuiteConfiguration" finished-at="2025-03-27T09:49:37 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Data base disconnected]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterSuiteConfiguration -->
       </class> <!-- organizationTests.ToCreateOrganizationTest -->
       <class name="organizationTests.ToCreateOrgWithIndNTypeTest">
-        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@42e99e4a]" started-at="2025-03-27T09:48:30 IST" name="beforeClassConfiguration" finished-at="2025-03-27T09:48:32 IST" duration-ms="2222" status="PASS">
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@4e91d63f]" started-at="2025-04-05T11:00:54 IST" name="beforeClassConfiguration" finished-at="2025-04-05T11:00:57 IST" duration-ms="2557" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser Launced Successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeClassConfiguration -->
-        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@42e99e4a]" started-at="2025-03-27T09:48:32 IST" name="beforeMethodConfiguration" finished-at="2025-03-27T09:48:32 IST" duration-ms="232" status="PASS">
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@4e91d63f]" started-at="2025-04-05T11:00:57 IST" name="beforeMethodConfiguration" finished-at="2025-04-05T11:01:00 IST" duration-ms="3604" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged in suceessfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethodConfiguration -->
-        <test-method signature="toCreateOrgWithIndustyAndType()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@42e99e4a]" started-at="2025-03-27T09:48:32 IST" name="toCreateOrgWithIndustyAndType" finished-at="2025-03-27T09:48:44 IST" duration-ms="12421" status="PASS">
+        <test-method signature="toCreateOrgWithIndustyAndType()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@4e91d63f]" started-at="2025-04-05T11:01:00 IST" name="toCreateOrgWithIndustyAndType" finished-at="2025-04-05T11:01:16 IST" duration-ms="15362" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[ ACC84 ] GlobalLogic1418 - Organization Information With [[ChromeDriver: chrome on windows (6cdffa7d5751a0fb3c68da4c2dc69bae)] -> name: industry] And [[ChromeDriver: chrome on windows (6cdffa7d5751a0fb3c68da4c2dc69bae)] -> name: accounttype]----Passed]]>
+              <![CDATA[[ ACC100 ] GlobalLogic894 - Organization Information With [[ChromeDriver: chrome on windows (deb775853b31ca0e65fec139d81f4efe)] -> name: industry] And [[ChromeDriver: chrome on windows (deb775853b31ca0e65fec139d81f4efe)] -> name: accounttype]----Passed]]>
             </line>
           </reporter-output>
         </test-method> <!-- toCreateOrgWithIndustyAndType -->
-        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@42e99e4a]" started-at="2025-03-27T09:48:44 IST" name="afterMethodConfiguration" finished-at="2025-03-27T09:48:46 IST" duration-ms="1384" status="PASS">
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@4e91d63f]" started-at="2025-04-05T11:01:16 IST" name="afterMethodConfiguration" finished-at="2025-04-05T11:01:18 IST" duration-ms="2007" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged out successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethodConfiguration -->
-        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@42e99e4a]" started-at="2025-03-27T09:48:46 IST" name="afterClassConfiguration" finished-at="2025-03-27T09:48:46 IST" duration-ms="311" status="PASS">
+        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndNTypeTest@4e91d63f]" started-at="2025-04-05T11:01:18 IST" name="afterClassConfiguration" finished-at="2025-04-05T11:01:18 IST" duration-ms="255" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser got closed successfully]]>
@@ -185,35 +171,35 @@
         </test-method> <!-- afterClassConfiguration -->
       </class> <!-- organizationTests.ToCreateOrgWithIndNTypeTest -->
       <class name="contactTests.ToCreateContactWithOrgTest">
-        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@52e6fdee]" started-at="2025-03-27T09:49:02 IST" name="beforeClassConfiguration" finished-at="2025-03-27T09:49:04 IST" duration-ms="1986" status="PASS">
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@2f112965]" started-at="2025-04-05T11:00:06 IST" name="beforeClassConfiguration" finished-at="2025-04-05T11:00:09 IST" duration-ms="2952" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser Launced Successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeClassConfiguration -->
-        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@52e6fdee]" started-at="2025-03-27T09:49:04 IST" name="beforeMethodConfiguration" finished-at="2025-03-27T09:49:04 IST" duration-ms="237" status="PASS">
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@2f112965]" started-at="2025-04-05T11:00:09 IST" name="beforeMethodConfiguration" finished-at="2025-04-05T11:00:09 IST" duration-ms="203" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged in suceessfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethodConfiguration -->
-        <test-method signature="toCreateContact_001()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@52e6fdee]" started-at="2025-03-27T09:49:04 IST" name="toCreateContact_001" finished-at="2025-03-27T09:49:21 IST" duration-ms="16771" status="PASS">
+        <test-method signature="toCreateContact_001()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@2f112965]" started-at="2025-04-05T11:00:09 IST" name="toCreateContact_001" finished-at="2025-04-05T11:00:28 IST" duration-ms="19025" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[ CON64 ] HrithikRoshan - Contact Information and abc Pass]]>
+              <![CDATA[[ CON79 ] HrithikRoshan - Contact Information and abc Pass]]>
             </line>
           </reporter-output>
         </test-method> <!-- toCreateContact_001 -->
-        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@52e6fdee]" started-at="2025-03-27T09:49:21 IST" name="afterMethodConfiguration" finished-at="2025-03-27T09:49:22 IST" duration-ms="1526" status="PASS">
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@2f112965]" started-at="2025-04-05T11:00:28 IST" name="afterMethodConfiguration" finished-at="2025-04-05T11:00:30 IST" duration-ms="2033" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged out successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethodConfiguration -->
-        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@52e6fdee]" started-at="2025-03-27T09:49:22 IST" name="afterClassConfiguration" finished-at="2025-03-27T09:49:23 IST" duration-ms="250" status="PASS">
+        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:contactTests.ToCreateContactWithOrgTest@2f112965]" started-at="2025-04-05T11:00:30 IST" name="afterClassConfiguration" finished-at="2025-04-05T11:00:30 IST" duration-ms="299" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser got closed successfully]]>
@@ -221,73 +207,36 @@
           </reporter-output>
         </test-method> <!-- afterClassConfiguration -->
       </class> <!-- contactTests.ToCreateContactWithOrgTest -->
-      <class name="contactTests.ToCreateContactTest">
-        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:contactTests.ToCreateContactTest@62150f9e]" started-at="2025-03-27T09:49:23 IST" name="beforeClassConfiguration" finished-at="2025-03-27T09:49:25 IST" duration-ms="2104" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Browser Launced Successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClassConfiguration -->
-        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:contactTests.ToCreateContactTest@62150f9e]" started-at="2025-03-27T09:49:25 IST" name="beforeMethodConfiguration" finished-at="2025-03-27T09:49:25 IST" duration-ms="243" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logged in suceessfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethodConfiguration -->
-        <test-method signature="toCreateContact_001()[pri:0, instance:contactTests.ToCreateContactTest@62150f9e]" started-at="2025-03-27T09:49:25 IST" name="toCreateContact_001" finished-at="2025-03-27T09:49:36 IST" duration-ms="10674" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[ CON65 ] HrithikRoshan - Contact Information Created successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- toCreateContact_001 -->
-        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:contactTests.ToCreateContactTest@62150f9e]" started-at="2025-03-27T09:49:36 IST" name="afterMethodConfiguration" finished-at="2025-03-27T09:49:37 IST" duration-ms="1276" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logged out successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethodConfiguration -->
-        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:contactTests.ToCreateContactTest@62150f9e]" started-at="2025-03-27T09:49:37 IST" name="afterClassConfiguration" finished-at="2025-03-27T09:49:37 IST" duration-ms="239" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Browser got closed successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClassConfiguration -->
-      </class> <!-- contactTests.ToCreateContactTest -->
       <class name="organizationTests.ToCreateOrgWithIndustryTest">
-        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@14dd9eb7]" started-at="2025-03-27T09:48:46 IST" name="beforeClassConfiguration" finished-at="2025-03-27T09:48:48 IST" duration-ms="2099" status="PASS">
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@d4342c2]" started-at="2025-04-05T11:01:18 IST" name="beforeClassConfiguration" finished-at="2025-04-05T11:01:20 IST" duration-ms="2517" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser Launced Successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeClassConfiguration -->
-        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@14dd9eb7]" started-at="2025-03-27T09:48:48 IST" name="beforeMethodConfiguration" finished-at="2025-03-27T09:48:48 IST" duration-ms="228" status="PASS">
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@d4342c2]" started-at="2025-04-05T11:01:20 IST" name="beforeMethodConfiguration" finished-at="2025-04-05T11:01:24 IST" duration-ms="3704" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged in suceessfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethodConfiguration -->
-        <test-method signature="toCreateOrgWithIndusty()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@14dd9eb7]" started-at="2025-03-27T09:48:48 IST" name="toCreateOrgWithIndusty" finished-at="2025-03-27T09:49:00 IST" duration-ms="11886" status="PASS">
+        <test-method signature="toCreateOrgWithIndusty()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@d4342c2]" started-at="2025-04-05T11:01:24 IST" name="toCreateOrgWithIndusty" finished-at="2025-04-05T11:01:39 IST" duration-ms="14967" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[ ACC85 ] GlobalLogic141 - Organization Information -----Passed]]>
+              <![CDATA[[ ACC101 ] GlobalLogic386 - Organization Information -----Passed]]>
             </line>
           </reporter-output>
         </test-method> <!-- toCreateOrgWithIndusty -->
-        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@14dd9eb7]" started-at="2025-03-27T09:49:00 IST" name="afterMethodConfiguration" finished-at="2025-03-27T09:49:02 IST" duration-ms="1317" status="PASS">
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@d4342c2]" started-at="2025-04-05T11:01:39 IST" name="afterMethodConfiguration" finished-at="2025-04-05T11:01:41 IST" duration-ms="2179" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logged out successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethodConfiguration -->
-        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@14dd9eb7]" started-at="2025-03-27T09:49:02 IST" name="afterClassConfiguration" finished-at="2025-03-27T09:49:02 IST" duration-ms="248" status="PASS">
+        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:organizationTests.ToCreateOrgWithIndustryTest@d4342c2]" started-at="2025-04-05T11:01:41 IST" name="afterClassConfiguration" finished-at="2025-04-05T11:01:41 IST" duration-ms="230" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser got closed successfully]]>
@@ -295,6 +244,57 @@
           </reporter-output>
         </test-method> <!-- afterClassConfiguration -->
       </class> <!-- organizationTests.ToCreateOrgWithIndustryTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      <class name="contactTests.ToCreateContactTest">
+        <test-method is-config="true" signature="beforeSuiteConfiguarjion()[pri:0, instance:contactTests.ToCreateContactTest@4445629]" started-at="2025-04-05T10:59:44 IST" name="beforeSuiteConfiguarjion" finished-at="2025-04-05T10:59:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Data base connection established]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteConfiguarjion -->
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:contactTests.ToCreateContactTest@4445629]" started-at="2025-04-05T10:59:44 IST" name="beforeClassConfiguration" finished-at="2025-04-05T10:59:48 IST" duration-ms="3681" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Launced Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:contactTests.ToCreateContactTest@4445629]" started-at="2025-04-05T10:59:48 IST" name="beforeMethodConfiguration" finished-at="2025-04-05T10:59:51 IST" duration-ms="3087" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in suceessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="toCreateContact_001()[pri:0, instance:contactTests.ToCreateContactTest@4445629]" started-at="2025-04-05T10:59:51 IST" name="toCreateContact_001" finished-at="2025-04-05T11:00:04 IST" duration-ms="12591" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[ CON78 ] HrithikRoshan - Contact Information Created successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCreateContact_001 -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:contactTests.ToCreateContactTest@4445629]" started-at="2025-04-05T11:00:04 IST" name="afterMethodConfiguration" finished-at="2025-04-05T11:00:06 IST" duration-ms="1912" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:contactTests.ToCreateContactTest@4445629]" started-at="2025-04-05T11:00:06 IST" name="afterClassConfiguration" finished-at="2025-04-05T11:00:06 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClassConfiguration -->
+        <test-method is-config="true" signature="afterSuiteConfiguration()[pri:0, instance:contactTests.ToCreateContactTest@4445629]" started-at="2025-04-05T11:01:42 IST" name="afterSuiteConfiguration" finished-at="2025-04-05T11:01:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Data base disconnected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuiteConfiguration -->
+      </class> <!-- contactTests.ToCreateContactTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
 </testng-results>

@@ -35,7 +35,7 @@ public class ToCreateContactTest extends BaseClass {
 
 		// Save and verify
 		cdp.getSaveButton().click();
-		Assert.fail();
+		//Assert.fail();
 		ContactInfoPage cip = new ContactInfoPage(driver);
 		String lastName = cip.getContactInfo().getText();
 		Assert.assertTrue(lastName.contains(LASTNAME));
